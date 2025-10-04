@@ -1,0 +1,4 @@
+{"firmware": {"mpy": "v6.3", "build": "dirty", "ver": "1.26.0-preview-dirty", "arch": "armv6m", "version": "1.26.0-preview", "port": "rp2", "board": "RPI_PICO_W", "family": "micropython", "board_id": "RPI_PICO_W", "variant": "", "cpu": "RP2040"},
+"stubber": {"version": "v1.26.2"}, "stubtype": "firmware",
+"modules" :[
+{"module": "_asyncio", "file": "/remote/stubs/micropython-v1_26_0-preview-rp2-RPI_PICO_W/_asyncio.pyi"}
